@@ -1,0 +1,5 @@
+create table course(name varchar(40),profname varchar(40),description varchar(255));
+
+
+create table studenttable(name varchar(40),email varchar(40), phone bigint);
+
